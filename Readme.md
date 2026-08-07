@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Praveen<br><br>🎓 B.Tech Artificial Intelligence & Data Science Student<br>💻 Interested in AI, Data Science & Technology<br>🚀 Currently learning and building my technical skills<br><br>🧑‍💻 About Me<br><br>- 🎓 B.Tech AI & Data Science student<br>- 🤖 Interested in Artificial Intelligence & Data Science<br>- 🐍 Currently learning Python and programming fundamentals<br>- 💡 Exploring new technologies and practical projects<br>- 📚 Always learning something new<br>- 🎯 Goal: Build useful projects and grow as a tech professional<br><br><br>📌 Current Focus<br><br>«Learning → Building → Improving 🚀»<br><br>I'm currently focusing on strengthening my programming skills, learning AI & Data Science concepts, and creating projects that help me gain practical experience.<br><br>📫 Connect With Me<br><br>- 📧 Email: Praveen.ai.dev@gmail.com<br><br>---<br><br>⭐ Thanks for visiting my profile!
+👋 Hi, I'm Praveen<br><br>🎓 B.Tech Artificial Intelligence & Data Science Student<br>💻 Interested in AI, Data Science & Technology<br>🚀 Currently learning and building my technical skills<br><br>🧑‍💻 About Me<br><br>- 🎓 B.Tech AI & Data Science student<br>- 🤖 Interested in Artificial Intelligence & Data Science<br>- 🐍 Currently learning Python and programming fundamentals<br>- 💡 Exploring new technologies and practical projects<br>- 📚 Always learning something new<br>- 🎯 Goal: Build useful projects and grow as a tech professional🌱 Currently Learning
+Programming Basics
+Python
+Git & GitHub
+AI & Data Science Fundamentals<br><br><br>📌 Current Focus<br><br>«Learning → Building → Improving 🚀»<br><br>I'm currently focusing on strengthening my programming skills, learning AI & Data Science concepts, and creating projects that help me gain practical experience.<br><br>📫 Connect With Me<br><br>- 📧 Email: Praveen.ai.dev@gmail.com<br><br>---<br><br>⭐ Thanks for visiting my profile!
 
 
 ## 🌐 Socials:
