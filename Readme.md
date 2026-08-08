@@ -1,9 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,25:0099FF,50:00E5FF,75:00FF88,100:FF00CC&height=250&section=header&text=PRAVEEN%20B.V&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00E5FF&center=true&vCenter=true&width=700&lines=🤖+AI+%26+Data+Science+Student;💻+Tech+Enthusiast;🚀+Future+Developer;🐍+Python+Learner;🔥+Learning+%7C+Building+%7C+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Tech+Enthusiast;Future+Developer;Python+Learner;Learning+%7C+Building+%7C+Growing" alt="Typing Animation" />
 </p>
 
 <p align="center">
