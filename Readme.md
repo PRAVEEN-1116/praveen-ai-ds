@@ -25,6 +25,32 @@
 📍 **Chennai, India 🇮🇳**
 
 ---
+---
+
+## 🧠 Currently Learning
+
+🐍 **Python** — Beginner  
+🤖 **Artificial Intelligence** — Exploring  
+📊 **Data Science** — Exploring  
+💻 **Programming Fundamentals** — Learning  
+🐙 **Git & GitHub** — Learning  
+🧩 **Problem Solving** — Improving  
+
+---
+
+<h2 align="center">✨ Thanks for Visiting My Profile! ✨</h2>
+
+<p align="center">
+  🚀 Keep Learning • Keep Building • Keep Growing 🚀
+</p>
+
+<p align="center">
+  ⭐ If you like my profile, feel free to follow me!
+</p>
+
+<p align="center">
+  <b>Made with ❤️ by Praveen B.V</b>
+</p>
 
 # 🧠 My Tech Journey
 
