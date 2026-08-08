@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,25:0099FF,50:00E5FF,75:00FF88,100:FF00CC&height=250&section=header&text=PRAVEEN%20B.V&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=🤖+AI+%26+Data+Science+Student+%7C+💻+Tech+Enthusiast+%7C+🚀+Future+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+%26+Data+Science+Student+%7C+Tech+Enthusiast+%7C+Future+Developer" alt="AI & Data Science Student" />
 </p>
 ---
 
