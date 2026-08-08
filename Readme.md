@@ -5,9 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=🤖+AI+%26+Data+Science+Student+%7C+💻+Tech+Enthusiast+%7C+🚀+Future+Developer" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;B.Tech+AI+%26+Data+Science+Student;Learning+Python+%26+Technology;Building+My+Future+One+Project+at+a+Time+🚀" />
-</p>
+
 
 ---
 
