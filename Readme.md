@@ -1,22 +1,43 @@
-# 💫 About Me:
-👋 Hi, I'm Praveen<br><br>🎓 B.Tech Artificial Intelligence & Data Science Student<br>💻 Interested in AI, Data Science & Technology<br>🚀 Currently learning and building my technical skills<br><br>🧑‍💻 About Me<br><br>- 🎓 B.Tech AI & Data Science student<br>- 🤖 Interested in Artificial Intelligence & Data Science<br>- 🐍 Currently learning Python and programming fundamentals<br>- 💡 Exploring new technologies and practical projects<br>- 📚 Always learning something new<br>- 🎯 Goal: Build useful projects and grow as a tech professional🌱 Currently Learning
-Programming Basics
-Python
-Git & GitHub
-AI & Data Science Fundamentals<br><br><br>📌 Current Focus<br><br>«Learning → Building → Improving 🚀»<br><br>I'm currently focusing on strengthening my programming skills, learning AI & Data Science concepts, and creating projects that help me gain practical experience.<br><br>📫 Connect With Me<br><br>- 📧 Email: Praveen.ai.dev@gmail.com<br><br>---<br><br>⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,25:0099FF,50:00E5FF,75:00FF88,100:FF00CC&height=250&section=header&text=PRAVEEN%20B.V&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
+<h1 align="center">👋 Hi, I'm Praveen B.V</h1>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EWzUHp57fp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pravxxn.__.11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveen.ai.dev@gmail.com) 
+<h3 align="center">
+🤖 AI & Data Science Student | 💻 Tech Enthusiast | 🚀 Future Developer
+</h3>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Praveen-ai-ds&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Praveen-ai-ds&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Praveen-ai-ds&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;B.Tech+AI+%26+Data+Science+Student;Learning+Python+%26+Technology;Building+My+Future+One+Project+at+a+Time+🚀" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Praveen-ai-ds&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌈 About Me
+
+👋 Hi, I'm **Praveen B.V**
+
+🎓 **B.Tech Artificial Intelligence & Data Science Student**
+
+💻 Passionate about **Technology, Programming & Development**
+
+🤖 Interested in **Artificial Intelligence & Data Science**
+
+🐍 Currently learning **Python & Programming**
+
+🚀 Building my skills through **projects and hands-on learning**
+
+🎯 Goal: **Learn • Build • Grow**
+
+📍 **Chennai, India 🇮🇳**
+
+---
+
+# 🧠 My Tech Journey
+
+```text
+Learning        ███████████████░░░░░  75%
+Programming     ████████████░░░░░░░░  60%
+AI & DS         █████████░░░░░░░░░░░  45%
+Projects        ███████░░░░░░░░░░░░░  35%
